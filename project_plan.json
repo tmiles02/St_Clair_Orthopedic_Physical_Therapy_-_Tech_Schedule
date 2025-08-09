@@ -1,0 +1,49 @@
+{
+  "name": "St. Clair Orthopedic Physical Therapy - Tech Schedule",
+  "description": "Update Tech team availability and output monthly shift schedule as a printable calendar and upload to employee site.",
+  "created_at": "2025-08-09T16:45:56.088656",
+  "github_username": "tmiles02",
+  "answers": {
+    "question_1": {
+      "question": "What is the format for the printable calendar?",
+      "answer": "pdf"
+    },
+    "question_2": {
+      "question": "Who will have access to upload the schedule to the employee site?",
+      "answer": "andrea (admin)"
+    },
+    "question_3": {
+      "question": "How often should the shift schedule be updated?",
+      "answer": "monthly"
+    },
+    "question_4": {
+      "question": "Do we need to include any specific information in the calendar, such as holidays or maintenance days?",
+      "answer": "Company Holidays"
+    },
+    "question_5": {
+      "question": "Is there a preferred tool or platform for creating and uploading the calendar?",
+      "answer": "This needs to be easy for a none teshnical admin"
+    },
+    "followup_1": {
+      "question": "What is the preferred method for Andrea to upload the schedule to the employee site?",
+      "answer": "web form upload"
+    },
+    "followup_2": {
+      "question": "How will we ensure that all employees receive notifications about any changes to the shift schedule?",
+      "answer": "email, mobile text message, calendar print out in employee break room"
+    },
+    "followup_3": {
+      "question": "Is there a specific format or template that should be used when creating the printable calendar?",
+      "answer": "at this time no"
+    }
+  },
+  "mvp_plan": [
+    "Step 1: Andrea will create a web form using Google Forms for uploading the printable PDF calendar.",
+    "Step 2: The web form will be designed to allow Andrea to select the month and year of the schedule, upload the PDF file, and submit it for approval.",
+    "Step 3: A template for the printable calendar will be created in a tool like Microsoft Word or Google Docs. This template should include placeholders for shift details and company holidays.",
+    "Step 4: Andrea will be trained on how to use the web form and fill out the calendar template accurately.",
+    "Step 5: The web form will be made accessible to Andrea via a secure link, ensuring that only authorized personnel can upload schedules.",
+    "Step 6: A notification system will be set up to alert all employees about any changes to the shift schedule. This could include email notifications and mobile text messages sent through an internal messaging platform.",
+    "Step 7: Monthly updates of the shift schedule will be scheduled, with Andrea responsible for filling out the calendar template and uploading it via the web form before the first day of each month."
+  ]
+}
